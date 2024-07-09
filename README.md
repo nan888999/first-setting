@@ -35,9 +35,7 @@ Laravel環境構築
 - MySQL  8.0.26
 
 ## テーブル設計
-![image](https://github.com/nan888999/attendance/assets/167194215/a725e2c6-aa9a-4b41-b789-a56ec606232c)
+![image](https://github.com/nan888999/attendance/assets/167194215/695fee2d-82c3-4484-a2e0-ab13a2996b92)
 
 ## ER図
-![image](https://github.com/nan888999/attendance/assets/167194215/6b25694d-d0b2-47cb-a73c-a1bcc0ed324a)
-
-
+![image](https://github.com/nan888999/attendance/assets/167194215/40d2e3bb-771f-4c3f-b770-04647d81330b)
