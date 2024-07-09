@@ -1,0 +1,93 @@
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-nav-list {
+  display: flex;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.header-nav-item {
+  cursor: pointer;
+}
+
+.header-nav-item:not(:last-child) {
+  margin-right: 30px;
+}
+
+input.logout {
+  cursor: pointer;
+  border: none;
+  background-color: white;
+  align-items: center;
+  font-weight: 600;
+}
+
+.date__form {
+  text-align: center;
+  margin-bottom: 30px;
+  align-items: center;
+}
+
+.attendance__table {
+  padding: 20px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.attendance__table-body {
+  width: 100%;
+}
+
+.attendance__table-row {
+  border-top: 1px solid rgba(128, 128, 128, 0.349);
+}
+
+.attendance__table-header, .attendance__table-data {
+  text-align: left;
+  padding: 15px 20px;
+}
+
+.change_date {
+  margin: 0 20px;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 255, 0.636);
+  color: blue;
+  cursor: pointer;
+}
+
+/* pagination */
+svg.w-5.h-5 {
+  width: 30px;
+  height: 30px;
+}
+
+a.page-link {
+  display: block;
+}
+
+.pagination {
+  text-align: center;
+}
+
+.pagination ul {
+  margin: 0;
+}
+
+.pagination li {
+  display: inline-block;
+  background-color: white;
+  border: 0.5px solid rgba(30, 143, 255, 0.209);
+  color: dodgerblue;
+  width: 2em;
+  padding: 0.3em;
+  margin: 0 -0.2em;
+}
+
+.pagination .active {
+  color: white;
+  background-color: dodgerblue;
+}

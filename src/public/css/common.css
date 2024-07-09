@@ -1,0 +1,32 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.header {
+  background-color: white;
+  padding: 10px 40px;
+}
+
+.header__title {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  margin: 30px 0px 20px 0px;
+}
+
+.content {
+  background-color: rgba(211, 211, 211, 0.252);
+  padding: 30px 0px 50px 0px;
+}
+
+.footer {
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 9px;
+}
